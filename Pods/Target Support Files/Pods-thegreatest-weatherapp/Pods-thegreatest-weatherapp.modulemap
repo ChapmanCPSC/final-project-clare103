@@ -1,0 +1,6 @@
+framework module Pods_thegreatest_weatherapp {
+  umbrella header "Pods-thegreatest-weatherapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
